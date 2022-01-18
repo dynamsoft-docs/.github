@@ -5,12 +5,15 @@ This organization is dedicated to the documentation of Dynamsoft SDKs.
 ### Barcode Reading
 
 [Web](https://github.com/dynamsoft-docs/barcode-reader-docs-js)
+
 [Mobile](https://github.com/dynamsoft-docs/barcode-reader-docs-mobile)
+
 [Desktop](https://github.com/dynamsoft-docs/barcode-reader-docs)
 
 ### Document Scanning
 
 [Web](https://github.com/dynamsoft-docs/web-twain-docs)
+
 [Desktop](https://github.com/dynamsoft-docs/dotnet-twain-docs)
 
 ### Label Recognition
